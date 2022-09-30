@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable-mdpi/ic_wave_new_trans.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable-mdpi/sign_edit_bg.xml" value="0.1725" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/add_ben_button_bg.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/border_bg.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/dmt_limit_bg.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/ic_bank_app.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/ic_left_arrow_new.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/ic_search_gray.xml" value="0.1725" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/ic_user_color.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/ic_wave.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/ic_wave_new.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/ic_wave_trans.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/pending_border_orange.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/primary_border_red.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/primary_stroke_bg.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/round_gray_bg.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/share_new_icon.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/drawable/success_border_green.xml" value="0.115" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/android_loader.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/dmt_account_search.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/dmt_add_ben.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/dmt_ben_details.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/dmt_ben_list_row.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/dmt_money_transfer.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/operator_bank_row.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/otp_validate_view.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/pay_confirmation_dialog.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/report_invoice.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/search_with_list_activity.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Clone Project/New Design/sahalrechragepoint/app/src/main/res/layout/signup_activity.xml" value="0.37782340862423" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable-mdpi/card_wave_bg.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable-mdpi/card_wave_bg_trans.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable-mdpi/gray_round_corner.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable-xxhdpi/ic_land_line_new.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable-xxhdpi/ic_mobile_new.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable-xxxhdpi/btn_cit_blue.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable-xxxhdpi/upper_round_croner.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/btn_cit_blue.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/card_wave_bg_trans.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/credit_card.xml" value="0.155" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/gray_round_corner.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/ic_broadband.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/ic_card_pan_up.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/ic_dish_new.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/ic_dmt_rupee.xml" value="0.155" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/ic_electricity_new.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/ic_land_line_new.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/ic_mobile_new.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/ic_water_new.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/more_icon.xml" value="0.1575" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/singup_curve_top.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/drawable/upper_round_croner.xml" value="0.1585" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/font/baloo.xml" value="0.23020833333333332" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_aeps_kyc.xml" value="0.1" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_aeps_report_list.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_bill_report_list.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_main_home.xml" value="0.1" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_pan_card.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_pan_card_statement.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_settings.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_transaction_reciept.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/activity_wallet_section.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/adapter_report_aeps_fund_req_list_row.xml" value="0.1" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/adapter_report_aeps_list_row.xml" value="0.25" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/android_loader.xml" value="0.1" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/bottom_update_popup.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/dmt_ben_details.xml" value="0.1" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/home_item_view.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/home_transfermoney_row_dynamic.xml" value="0.1953125" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/home_wallet_items_row.xml" value="0.33" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/home_wallet_items_row_second.xml" value="0.1" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/login_design_one.xml" value="0.22" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/mobile_amount_enter_activity.xml" value="0.33" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/otp_forget_pass_view.xml" value="0.12" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/pancard_statement_items.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/rolw_list_row.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/settle_card_item_one.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/signup_activity.xml" value="0.1" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/signup_activity_page_two.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/signup_one_activity.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/splash_activity.xml" value="0.2" />
+        <entry key="..\:/Mahagram/Mahagram Android/Pay2Need/payneed/app/src/main/res/layout/tutorial_item_view.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

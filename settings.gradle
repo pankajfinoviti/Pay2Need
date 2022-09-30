@@ -1,0 +1,6 @@
+include ':mahagram-sdk_1.1.3'
+include ':app'
+include ':pdfcreator'
+include ':onboarding'
+rootProject.name='payneed'
+
