@@ -16,7 +16,7 @@ public class Constants {
     public static ArrayList<CommissionModel> commissionDataList;
 
     public static String[] images = {
-            "https://bankingblog.accenture.com/wp-content/uploads/2016/08/Accenture-Banking-PSD2.jpg",
+            "https://login.pay2need.com/assets/introslidestatic/biller_one.png",
             "https://ak.picdn.net/shutterstock/videos/12236027/thumb/1.jpg",
             "https://datasearchconsulting.com/wp-content/uploads/2019/11/5bffb21c221adb7a3231f2cc_Digital4.jpg",
             "https://www.businessliveme.com/wp-content/uploads/2020/06/unnamed-4.jpg"

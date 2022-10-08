@@ -429,10 +429,12 @@ public class MainActivity extends AppCompatActivity implements RequestResponseLi
         NUM_PAGES = images.length;
         final Handler handler = new Handler();
         final Runnable Update = () -> {
+            viewPager.setCurrentItem(currentPage++, true);
+
             if (currentPage == NUM_PAGES) {
                 currentPage = 0;
             }
-            viewPager.setCurrentItem(currentPage++, true);
+
         };
         Timer swipeTimer = new Timer();
         swipeTimer.schedule(new TimerTask() {
